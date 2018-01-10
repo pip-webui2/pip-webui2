@@ -100,30 +100,19 @@ Check for errors in coding style in all submodules:
 ng lint
 ```
 
-<!--## <a name="releasing"></a> Releasing
+<## <a name="releasing"></a> Releasing
 
-1\. Prepare all submodules for release. Check and update **CHANGELOG.md** files.
+1\. Prepare module for release. Check and update **CHANGELOG.md** files.
 
-2\. Change version number in the master project and all submodules.
-
-```bash
-gulp version -v x.y.z
-```
-
-3\. Check in changes to the repository
-
-```bash
-gulp checkin -m "Moving to x.v.z version"
-```
+2\. Change version number in **package.json**.
 
 4\. Publish release to the global NPM repository.
 
 Remember: to publish to NPM you must have proper permissions from the team.
 ```bash
 npm login
-gulp release
+npm publish ./
 ```
--->
 
 ## <a name="contrib"></a> Contributing
 

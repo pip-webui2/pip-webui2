@@ -68,3 +68,7 @@ We also would like to recognize help received from the following companies.
 - [**Digital Living Software Corp.**]()
 - [**Conceptual Vision Consulting LLC**](http://www.conceptualvisionconsulting.com)
 - [**T&I Labs Inc.**](http://www.tilabs.com)
+
+## License agreement
+
+Pip.WebUI is released under [MIT license](License) and totally free for commercial and non-commercial use.

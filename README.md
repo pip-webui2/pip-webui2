@@ -1,4 +1,4 @@
-# <img src="https://github.com/pip-webui2/pip-webui2/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> Angular Material toolkit for complex enterprise web applications 
+# <img src="https://github.com/pip-webui2/pip-webui2/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> Enterprise web toolkit for Angular Material 
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 

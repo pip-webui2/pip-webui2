@@ -1,4 +1,4 @@
-# <img src="https://github.com/pip-webui2/pip-webui2/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> HTML5 UI Framework for Line-of-Business Applications 
+# <img src="https://github.com/pip-webui2/pip-webui2/raw/master/doc/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> Angular Material toolkit for complex enterprise web applications 
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -15,7 +15,7 @@ any platform. There are lots of good HTML5 frameworks and libraries. They offer 
 However, designers and developers have to go a long way from those basic building blocks to create
 large and complex Line-of-Business apps.
 
-Pip.WebUI framework offers a set of higher-level primitives to simplify development of LOB apps.
+Pip.WebUI toolkit offers a set of higher-level primitives to simplify development of LOB apps.
 They were put together to implement consistent and rich User Experience
 following [Google Material](https://material.google.com) design style.
 
@@ -23,7 +23,7 @@ following [Google Material](https://material.google.com) design style.
   <img src="https://github.com/pip-webui2/pip-webui2/raw/master/doc/WebUI-0.png" alt="Pip.WebUI Overview" style="display:block;">
 </div>
 
-The framework is based on popular [Angular](https://angular.io/) framework 
+The toolkit is based on popular [Angular](https://angular.io/) framework 
 and [Angular Material](https://material.angular.io/) library of web controls. On the top of that
 Pip.WebUI provides a set of modules targeted toward LOB application development.
 
@@ -61,6 +61,7 @@ This project would not be possible without effort contributed by particular indi
 
 - **Sergey Seroukhov** - the project founder, architecture, web development and documentation
 - **Alex Dvoykin** - web development and documentation
+- **Alexander Kosheverov** - web development and documentation
 - **Kate Negrienko** - web development and documentation
 
 We also would like to recognize help received from the following companies.
